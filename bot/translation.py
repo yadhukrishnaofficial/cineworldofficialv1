@@ -5,19 +5,19 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}How are you!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>I will only work with my boss @yadhukrishnaofficial under @cine_world_official group so You cant Add me to your group...😂
 
-You cant Add me to your group...😂
+
 
 For More Details Click Help Button Below..
-@Cine_world_officialq
+<b>@Cine_world_official</b>
 </i>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
+-> Add Me To Any Group And Make
 -> Add Me To Your Desired Channel
 </i>
 
