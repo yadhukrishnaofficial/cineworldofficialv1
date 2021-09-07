@@ -6,9 +6,10 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {} How are you!!</b>
 <i>I will only work with my boss @yadhukrishnaofficial under @cine_world_official group 
+<b>So You cant Add me to your group...😂</b>
 
-So You cant Add me to your group...😂
-
+<b>എന്നെ @Cine_world_official ഗ്രൂപ്പിൽ പണി എടുക്കാൻ ഉണ്ടാക്കിയതാ എന്റെ മുതലാളി😘\n\nഅതുകൊണ്ട് നിങ്ങളുടെ ഗ്രൂപ്പിൽ ഉപയോഗിക്കാൻ പറ്റില്ല.....
+</b>    
 
 For More Details Click Help Button Below..
 <b>@Cine_world_official</b>
