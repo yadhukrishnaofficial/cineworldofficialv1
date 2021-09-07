@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/yadhukrishnaofficial'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/yadhukrishnaofficial/cineworldofficialv1')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/yadhukrishnaofficial')
+        InlineKeyboardButton('🔸Support our group🔸', url='https://t.me/Cine_world_official')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
